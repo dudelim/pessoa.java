@@ -5,4 +5,4 @@
 - Métodos: dizerNome(), dizerIdade(), getter e setter das variáveis
 
 - No método main:
-Crie um objeto Pessoa e use todos os métodos!
+crie um objeto Pessoa e use todos os métodos!
